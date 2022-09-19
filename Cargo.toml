@@ -1,0 +1,12 @@
+[package]
+name = "smxappend"
+authors = ["rtldg <rtldg@protonmail.com>"]
+version = "0.1.0"
+edition = "2021"
+license = "WTFPL"
+
+[dependencies]
+flate2 = "1.0"
+byteorder = "1.4.3"
+binrw = "0.9.2"
+anyhow = "1.0"
